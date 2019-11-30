@@ -1,4 +1,4 @@
-# DRACNet
+# ACDRNet (Active Contours via Differentiable Rendering)
 Official PyTorch implementation of "End to End Trainable Active Contours via Differentiable Rendering" ([link](https://openreview.net/pdf?id=rkxawlHKDr))
 
 ## Prerequisites
